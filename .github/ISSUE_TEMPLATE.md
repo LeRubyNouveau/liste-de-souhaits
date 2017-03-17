@@ -15,6 +15,6 @@ Votre niveau de connaissance/maîtrise du sujet
 - [ ] Aucune connaissance, je ne fais que proposer pour en entendre parler
 - [ ] Je m'y intéresse vaguement
 - [ ] Débutant(e)
-- [ ] Intérmédiaire
+- [ ] Intermédiaire
 - [ ] Expert(e)
 - [ ] Référence dans le domaine
