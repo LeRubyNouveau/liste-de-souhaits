@@ -9,6 +9,8 @@
 Je suis intéressé(e) pour participer au podcast
 
 - [ ] Oui !
+- [ ] Pourquoi pas
+- [ ] Je ne fais que proposer
 
 Votre niveau de connaissance/maîtrise du sujet
 
@@ -17,4 +19,3 @@ Votre niveau de connaissance/maîtrise du sujet
 - [ ] Débutant(e)
 - [ ] Intermédiaire
 - [ ] Expert(e)
-- [ ] Référence dans le domaine
