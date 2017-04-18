@@ -21,9 +21,12 @@
 * Quelles sont les tapes, les choses à confirmer, à faire en avance de phase.
 * J'ai des compétences existantes en Web / Ruby / Rails, est-ce que c'est facile de changer ?
 
+*Alternatives ?*
+
+* Est-ce que ce serait facile de quitter cette techno pour une autre stack ?
+* Quelles sont les alternatives populaires et quelles sont leurs différences ?
 
 *Où on va demain ?* 
 
 * Quelque chose que la communauté autour de cette techno aime et voudrait/devrait ajouter.
-* Est-ce que ce serait facile de quitter cette techno pour une autre stack ?
 * Les communautés sur ces outils : gens, entreprises, meetups, conférences, villes, pays.
